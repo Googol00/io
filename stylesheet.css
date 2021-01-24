@@ -103,13 +103,14 @@ a {
 .content-text h4 {
   display: inline-block;
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 5px;
   font-size: 25px;
   font-weight: normal;
   margin: 0
 }
 .content-text p {
   font-size: 15px;
+  line-height: 3px;
 }
 .info {
   background-color: rgb(224, 224, 224);
