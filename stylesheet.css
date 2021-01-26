@@ -167,6 +167,7 @@ a {
   }
   .content-text {
     padding: 15px 15px;
+    border-top: 2px solid gray;
   }
   .content {
     width: 50%;
@@ -176,6 +177,6 @@ a {
   }
   .content img {
     width: 95%;
-    height: 150px;
+    height: 250px;
   }
 }
