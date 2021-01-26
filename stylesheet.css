@@ -143,18 +143,16 @@ a {
   width: 500px;
   padding: 5px 30px;
   border: 1px solid gray;
-  
+  text-arign:center;
 }
 .info-text h3 {
   line-height: 30px;
   font-size: 30px;
   font-weight: normal;
-  text-align: center;
   color: rgb(121, 121, 255);
 }
 .info-text p {
   font-size: 20px;
-  text-arign:center;
 } 
 .info-text a {
   color:greenyellow;
