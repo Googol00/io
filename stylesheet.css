@@ -110,7 +110,7 @@ a {
 }
 .content img {
   width: 95%;
-  height: 280px;
+  height: 380px;
 }
 .content-text {
   color: white;
@@ -182,7 +182,7 @@ a {
     font-size: 45px;
   }
   .info-text p {
-    font-size: 26px;
+    font-size: 30px;
   }
   .info-text a {
     font-size: 30px;
