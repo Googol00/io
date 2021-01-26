@@ -127,7 +127,7 @@ a {
   text-align: center;
 }
 .content-text li {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 35px;
 }
 
@@ -135,36 +135,47 @@ a {
   background-color: black;
   color: white;
   margin: 0;
-  padding: 10px 35px;
+  padding: 10px 45px;
+ 
 }
 .info-text {
-  margin: 0 80px 50px 30px;
+  margin: 35px auto;
+  width: 500px;
+  padding: 5px 30px;
+  border: 1px solid gray;
+  
 }
-info-text h3 {
-  font-size:35px;
+.info-text h3 {
+  line-height: 30px;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(121, 121, 255);
 }
-info-text p {
-  font-size:25px;
-}
+.info-text p {
+  font-size: 20px;
+} 
 .info-text a {
   color:greenyellow;
   font-size: 25px;
+  display: block;
+  text-align: center;
 }
+
 @media (max-width:1000px) {
   .content-text {
     padding: 15px 15px;
     border-top: 2px solid gray;
   }
-    .content-text li {
+  .content-text li {
     font-size: 25px;
     line-height: 45px;
   }
   .content {
     width: 50%;
   }
-  
   .content img {
     width: 95%;
-    height: 250px;
+    height: 150px;
   }
 }
