@@ -178,4 +178,13 @@ a {
     width: 95%;
     height: 150px;
   }
+    .info-text h3 {
+    font-size: 45px;
+  }
+  .info-text p {
+    font-size: 26px;
+  }
+  .info-text a {
+    font-size: 30px;
+  }
 }
