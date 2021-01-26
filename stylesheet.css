@@ -140,8 +140,15 @@ a {
 .info-text {
   margin: 0 80px 50px 30px;
 }
+info-text h3 {
+  font-size:35px;
+}
+info-text p {
+  font-size:25px;
+}
 .info-text a {
   color:greenyellow;
+  font-size: 25px;
 }
 @media (max-width:1000px) {
   .content-text {
@@ -149,8 +156,8 @@ a {
     border-top: 2px solid gray;
   }
     .content-text li {
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 25px;
+    line-height: 45px;
   }
   .content {
     width: 50%;
